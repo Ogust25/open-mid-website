@@ -13,7 +13,7 @@ export const Home = ({ isLogged }) => {
           <p className="text-7xl">RECRUTEMENT OUVERT</p>
         </div>
       </div>
-      
+
       <div className="absolute top-60 left-10">
         <div className="text-white drop-shadow-2xl mt-10">
           <p className="text-5xl">
